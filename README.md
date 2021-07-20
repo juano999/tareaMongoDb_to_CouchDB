@@ -1,9 +1,9 @@
 # tareaMongoDb_to_CouchDB
 ### Integrantes:
-#### Jorge Alba
-#### Juan Bolaños
-#### Juan Dávila
-#### Byron Huaraca
+* Jorge Alba
+* Juan Bolaños
+* Juan Dávila
+* Byron Huaraca
 
   ## Paso 1:
   Generar La base de Datos en MongoDB Compass e importar las collecciones:
