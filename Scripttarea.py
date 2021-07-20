@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
 
 
 import json
@@ -77,20 +73,6 @@ for db in DBS:
                 except Exception as e:
                     raise e
 
-
-# In[10]:
-
-
-
-
-
-# In[19]:
-
-
-
-
-
-# In[ ]:
 
 
 
