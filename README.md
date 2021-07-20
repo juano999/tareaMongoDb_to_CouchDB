@@ -5,8 +5,7 @@
 * Juan Dávila
 * Byron Huaraca
 
-  ## Paso 1:
-  Generar La base de Datos en MongoDB Compass e importar las collecciones:
+  ## Paso 1: Generar La base de Datos en MongoDB Compass e importar las collecciones:
   ![WhatsApp Image 2021-07-19 at 7 30 16 PM](https://user-images.githubusercontent.com/58042023/126246277-143df002-e358-4c9f-a32d-0e11d8dd9169.jpeg)
   
   ## Paso 2: Conectar la Aplicacion, seleccional la versión de Python y seleccional el link que se nos proporciona:
